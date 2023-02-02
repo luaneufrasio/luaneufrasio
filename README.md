@@ -1,19 +1,22 @@
-# Hello World
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=26&pause=1000&color=F7BF1F&background=121214&center=true&vCenter=true&width=435&lines=I'm+Luan)](https://git.io/typing-svg)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luaneufrasio&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=luaneufrasio&theme=vision-friendly-dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luaneufrasio&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif "  width="150" height="150" />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=luaneufrasio&bg_color=000000&color=ebe5e5&line=d37012&point=140000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=26&pause=1000&color=F7BF1F&background=121214&center=true&vCenter=true&width=435&lines=Hello+World)](https://git.io/typing-svg)
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luanlimae/) 
+
 # 💻 Tech Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=luaneufrasio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luaneufrasio&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luaneufrasio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<hr/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanlimae/) 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luaneufrasio&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=luaneufrasio&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
