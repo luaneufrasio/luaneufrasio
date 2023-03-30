@@ -35,15 +35,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=l&locale=en&mode=daily&theme=ocean_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-###
-
-<img src="https://raw.githubusercontent.com/l/l/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/l/count.svg?"  />
 </div>
-###
+
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
